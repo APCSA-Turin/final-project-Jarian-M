@@ -1,0 +1,3 @@
+score:0
+highScore:11
+time:25
