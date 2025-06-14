@@ -114,7 +114,7 @@ public class MainFrame extends JFrame {
 
         setTitle("Pokemon Guessing Game"); //initializes the title of the game
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //initializes the default close operation of the GUI to JFrame.EXIT_ON_CLOSE
-        setSize(1650,1000); //initializes the size of the GUI
+        setSize(1300,1000); //initializes the size of the GUI
 
         setMainMenu(); //initializes the main menu
         add(mainPanel); //adds the main panel (contains all of the panels / screens of the game) to the GUI

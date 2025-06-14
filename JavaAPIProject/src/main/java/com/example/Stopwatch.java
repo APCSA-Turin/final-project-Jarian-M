@@ -16,7 +16,7 @@ public class Stopwatch {
         startTime = System.nanoTime(); //startTime initialized to current time
     }
 
-    public static void stop() {
+    public static void stop() { //stops stopwatch timer
         if (!running) {
             return; // terminates before stopping if its not running
         }

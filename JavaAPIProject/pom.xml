@@ -23,7 +23,7 @@
       <scope>test</scope>
     </dependency>
 
-    <dependency> <!-- JavaZoom Dependency(for Music)-->
+    <dependency>
       <groupId>javazoom</groupId>
       <artifactId>jlayer</artifactId>
       <version>1.0.1</version>
